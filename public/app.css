@@ -1,0 +1,33 @@
+
+.tit:hover{
+    transform: translateY(-5px);
+}
+
+.size1 strong{
+    font-size: 1.3rem;
+}
+
+.size1{
+    font-size: 1.15rem;
+}
+
+
+.code1 textarea {
+    resize: none;
+    outline: none;
+    width: 100%;
+    height: 50vh;
+    font-size: 18px;
+    padding: 10px;
+  }
+
+iframe {
+    margin-bottom: 1vh;
+    width: 100%;
+    height: 50vh;
+    background-color: white;
+    border: none;
+    position: relative;
+  }
+
+
