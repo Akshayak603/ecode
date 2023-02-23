@@ -7,5 +7,4 @@ function run(){
     let output=document.querySelector("#preview-window");
     output.contentDocument.body.innerHTML=htmlCode+cssCode;
     output.contentWindow.eval(jsCode);
-
   }
